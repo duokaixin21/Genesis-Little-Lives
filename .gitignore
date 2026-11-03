@@ -1,0 +1,19 @@
+# Godot generated cache/import state
+.godot/
+
+# Temporary files and editor swap files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+~$*
+
+# Runtime/test logs
+*.log
+logs/
+
+# Operating system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini

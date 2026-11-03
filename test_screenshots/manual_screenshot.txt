@@ -1,0 +1,3 @@
+已自动保留 Godot Movie Maker 生成的主场景首帧：game_window.png（1280×800）。
+该图未通过视觉模型检查：本机 MiMo V2.5 尚未配置，因此画面布局项目保持未验证。
+如需截取实际桌面窗口：切换到 Godot 游戏窗口，按 Alt+Print Screen；打开画图并按 Ctrl+V，再另存为 PNG 到 D:\上帝模拟器\test_screenshots\game_window_manual.png。
